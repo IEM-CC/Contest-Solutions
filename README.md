@@ -1,4 +1,5 @@
 # Contest-Solutions
 Solutions of the Contests organised by IEM Kolkata Students' Chapter
 
-[Contest Link](https://codeforces.com/gym/306623)
+Contests
+- [Codechef Iem Kolkata chapter- Intermediate](https://codeforces.com/gym/306623)
